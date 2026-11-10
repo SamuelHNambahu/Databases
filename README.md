@@ -1,5 +1,5 @@
 # SQL Projects 
-This repository contains SQL projects completed aspart of my BSc Data Science studies at the University of Namibia (UNAM)
+This repository contains a SQL project. library Management System that tracks books, loaned books, calculate fines for late returned books 
 
 # Skills demonstrated 
 - Writting SQL quries
@@ -7,4 +7,4 @@ This repository contains SQL projects completed aspart of my BSc Data Science st
 - Filtering and sorting data
 - Using aggregate functions
 - Working with tables and records
-  
+- Concurrency control   
